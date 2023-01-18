@@ -19,6 +19,7 @@ Vous devez compléter les fonctions suivantes du fichier [exercice.py](exercice.
 
 ```python
 def square_root(a: float) -> float:
+    math.sqrt
     return 0.0
 
 def square(a: float) -> float:
